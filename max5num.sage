@@ -1,6 +1,6 @@
 # This SageMath script solves the mixed-integer program described in
 
-# Anonymous Author(s):
+# Christoph Hertrich, Amitabh Basu, Marco Di Summa, Martin Skutella:
 # Towards Lower Bounds on the Depth of ReLU Neural Networks,
 
 # proving that no H-conforming 3-layer NN can compute the maximum of five numbers.
